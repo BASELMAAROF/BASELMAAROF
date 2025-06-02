@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Basel Marouf
+# 👋 Hello, I'm Basel Maarof
 
 🎯 Aspiring **Crypto Data Analyst** | 🧠 Learning **Blockchain Data Engineering**  
 💻 Python enthusiast | 🌍 Exploring Web3, APIs & Smart Contracts
